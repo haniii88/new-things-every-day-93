@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 93 */
+/* New Things Every Day — Day 93 */
 /* Generates a daily activity log with a unique random value */
 
 function dailyLog93() {
